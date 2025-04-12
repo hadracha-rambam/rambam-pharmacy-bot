@@ -20,7 +20,7 @@ body {
 </style>
 ''', unsafe_allow_html=True)
 
-st.markdown('## 🏥 הבוט הפרמקולוגי של רמב"ם')
+st.markdown('## 🧠 הבוט החכם של רמב"ם')
 st.markdown('מחפש מיהולים של תרופות או פרוטוקולים של בית המרקחת? הגעת למקום הנכון... שאל את הבוט שלנו.')
 
 # Load OpenAI API key
