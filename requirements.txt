@@ -1,5 +1,0 @@
-streamlit
-openai
-langchain==0.0.310
-pdfplumber
-faiss-cpu
